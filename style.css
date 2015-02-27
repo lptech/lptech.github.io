@@ -27,7 +27,7 @@ a:hover{background-color:blue;
 		
 a:active{background-color:orange;}
 
-div {border:2px solid red;
+div {border:2px solid clear;
 	position:absolute;
 	width:100px;
 	top:70px;
